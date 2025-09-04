@@ -19,7 +19,7 @@ Developed a microservices API gateway.
 - **Description**: Backend development, API design, microservice architecture, cloud deployment, and automated error handling.
 
 ### 🥢 [StickIt App - A fun app for no reason](https://github.com/fastelavnsBolleholdet/StickIt.git)
-We had 6 hours to develop and design an app, which had to fulfill ChindoguV - "Break the chains of usefulness". **We even won an award**
+We had 6 hours to develop and design an app, which had to fulfill Chindogu - "Break the chains of usefulness". **We even won an award**
 - **Tech Stack**: Kotlin, UI/UX design
 - **Skills**: Integration of two subjects, which ahs a lot in common, Userintegration (UI og UX) and App-development. With a starting point in Chindogu, developed we a prototype to a fully functionel app.
 - **Description**: Usersfriendly input app that is engaging and completely useless 😂. This project highlights my capability to integrate UI/UX technologies (through creative thinking) into a easy to use solutions.
