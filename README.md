@@ -24,7 +24,7 @@ We had 6 hours to develop and design an app, which had to fulfill ChindoguV - "B
 - **Skills**: Integration of two subjects, which ahs a lot in common, Userintegration (UI og UX) and App-development. With a starting point in Chindogu, developed we a prototype to a fully functionel app.
 - **Description**: Usersfriendly input app that is engaging and completely useless 😂. This project highlights my capability to integrate UI/UX technologies (through creative thinking) into a easy to use solutions.
 
-### 🤖 [Roommate management application](https://github.com/marcus-rk/reddit-scraping?tab=readme-ov-file#reddit-scraping-tool)](https://github.com/ViktorBach/RoommateProject.git)
+### 🤖 [Roommate management application](https://github.com/ViktorBach/RoommateProject.git)
 A Kotlin-based application for roommate and household management.  
 - **Tech Stack**: Kotlin, Android Studio, Jetpack Compose, and Firebase (Authentication & Firestore).
 - **Skills**: The project demonstrates skills in mobile app development, state management (ViewModels), authentication flows, UI design with Compose, and cloud integration.
