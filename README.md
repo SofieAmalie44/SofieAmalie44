@@ -6,25 +6,25 @@ I’m a passionate **IT Architecture** student with a deep focus on designing sc
 
 I focus on delivering innovative, best-practice applications while strengthening my skills in IT architecture, AI, and full-stack software development. Below are some key projects that demonstrate my technicallity and problem-solving abilities:
 
-### 🎵 [(https://github.com/SofieAmalie44/myWebApp.git)
+### 🎵 [Beat and visual tool](https://github.com/SofieAmalie44/myWebApp.git)
 My first ever interactive web application for creating beats and rhythms.  
 - **Tech Stack**: HTML, CSS, JavaScript, Web Audio API
 - **Skills**: Interactive UI design, Web Audio API for sound manipulation through keyboard interaction, front-end development  
 - **Description**: The website allows users to create custom beats using different keys on your keyboard. This project demonstrates my ability to build engaging, user-centric web applications, with a bit of fun.
 
-### 💻 [(https://github.com/Bilabbonnement-dk/api-gateway.git)
+### 💻 [API gateway developed for microservices](https://github.com/Bilabbonnement-dk/api-gateway.git)
 Developed a microservices API gateway.
 - **Tech Stack**: Python (Flask) with JWT authentication, SQLite, and Docker. Implemented routing for multiple services (reports, rentals, damages) with RESTful APIs, documented via Swagger, and deployed/configurable through Azure.
 - **Skills**: Full-stack development, RESTful API design (CRUD), relational database design, authentication systems, Interactive UI design.
 - **Description**: Backend development, API design, microservice architecture, cloud deployment, and automated error handling.
 
-### 🥢 [(https://github.com/fastelavnsBolleholdet/StickIt.git)
-We had 6 hours to develop and design an app, which had to fulfill ChindoguV - "Break the chains of usefulness".
+### 🥢 [StickIt App - A fun app for no reason](https://github.com/fastelavnsBolleholdet/StickIt.git)
+We had 6 hours to develop and design an app, which had to fulfill ChindoguV - "Break the chains of usefulness". **We even won an award**
 - **Tech Stack**: Kotlin, UI/UX design
 - **Skills**: Integration of two subjects, which ahs a lot in common, Userintegration (UI og UX) and App-development. With a starting point in Chindogu, developed we a prototype to a fully functionel app.
 - **Description**: Usersfriendly input app that is engaging and completely useless 😂. This project highlights my capability to integrate UI/UX technologies (through creative thinking) into a easy to use solutions.
 
-### 🤖 [Reddit Scraping Tool](https://github.com/marcus-rk/reddit-scraping?tab=readme-ov-file#reddit-scraping-tool)
+### 🤖 [Roommate management application](https://github.com/marcus-rk/reddit-scraping?tab=readme-ov-file#reddit-scraping-tool)](https://github.com/ViktorBach/RoommateProject.git)
 A Kotlin-based application for roommate and household management.  
 - **Tech Stack**: Kotlin, Android Studio, Jetpack Compose, and Firebase (Authentication & Firestore).
 - **Skills**: The project demonstrates skills in mobile app development, state management (ViewModels), authentication flows, UI design with Compose, and cloud integration.
