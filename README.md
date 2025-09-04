@@ -89,7 +89,7 @@ A Kotlin-based application for roommate and household management.
 | **1st Semester**| - Understanding Data  <br> - Database Design  <br> - Web Technology  <br> - Visualization & Aesthetics  <br> - Digital Culture 1 | Data Visualization: Understanding data, web development & how technology impacts society.                                           |
 | **2nd Semester**| - Application Development  <br> - User Involvement & Design  <br> - Agile Development (DevOps)  <br> - Digital Culture 2 | Application Development: Building applications, UI/UX and managing data processes.                                         |
 | **3rd Semester**| - Software Architecture  <br> - Business Design & Analytics  <br> - System Development  <br> - Cloud Computing | System Integration: Exploring how IT systems interact with business processes.                                       |
-| **4rd Semester**| - IT Infrastructure <br> IT Architecture <br> - Enterprise Architecture <br> - System Design <br> - Project Leading <br> Project Management.
+| **4rd Semester**| - IT Infrastructure <br> IT Architecture <br> - Enterprise Architecture <br> - System Design <br> - Project Leading <br> Project Management | Architecture and Architecture development          |
 Learn more about my education at [KEA Study Program](https://studieordninger.kea.dk/2023/27/176)
 
 ---
